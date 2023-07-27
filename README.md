@@ -7,17 +7,14 @@ This project showcases an eye-catching and interactive login form created solely
 ## Table of Contents
 
 - [Animated Transparent Login Form using HTML and CSS](#project-name)
+- [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Description](#description)
+  - [Key Features](#key-features)
   - [Demo](#demo)
   - [Screenshots](#screenshots)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Technologies](#technologies)
-  - [Features](#features)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
 
 ## Key Features
 
@@ -28,7 +25,7 @@ This project showcases an eye-catching and interactive login form created solely
 
 ## Demo
 
-[Live link]()
+[Live link](https://animated-login-form-ngww.vercel.app)
 
 ## Screenshots
 
