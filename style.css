@@ -135,9 +135,9 @@ button{
     height: 500px;
     background: linear-gradient(180deg, rgba(47, 184, 255, .42) 31.77%, #5c9df1 100%);
     border-radius: 56% 44% 52% 48% / 31% 28% 72% 69% ;
-    transform: translate(-100px, -50px) rotate(-90deg);
+    transform: translate(-300px, -50px) rotate(-90deg);
     transition: 1s cubic-bezier(.07, .8, .16, 1);
-    animation: animateBlob 20s infinite alternate;
+    animation: animateBlob 25s infinite alternate;
 }
 
 .blob:hover{
